@@ -1,7 +1,10 @@
 # Python_codes
 This is my repository for python codes I've made/used.
 
+
 All codes were developed in the jupyter notebook.
+
+
 
 There are three types of files:
 
