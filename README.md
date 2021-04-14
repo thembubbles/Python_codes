@@ -1,5 +1,5 @@
 # Python_scripts
-This is my repository for python scripts I've made/used.
+This is my personal repository for python scripts I've made/used.
 
 All codes were developed in the jupyter notebook.
 
